@@ -1,4 +1,4 @@
-#S530 Spring 2014
+#Spring 2014
 
 TORM = opcodetab.o sicxe_asm sicxe_asm.o file_parser.o symtab.o
 CC = g++
