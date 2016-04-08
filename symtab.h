@@ -1,9 +1,6 @@
 /*	Travis Barre, Ehsan Eshragh, Julius Inocencio, Michael Reese
-	Team Oregon
-	masc1187
-	prog4
 	symtab.h
-	CS530, Spring 2014
+	Spring 2014
 */
 
 #ifndef SYMTAB_H

@@ -1,10 +1,6 @@
 /*  file_parse_exception.h
     Exception class for file_parser
-    CS530 Spring 2014
-    Alan Riggins
-*/
-
-/*	Travis Barre, Ehsan Eshragh, Julius Inocencio, Michael Reese
+    Travis Barre, Ehsan Eshragh, Julius Inocencio, Michael Reese
 	Spring 2014
 */
 

@@ -1,14 +1,7 @@
 /*	opcode_error_exception.h
     Exception class for opcodetab
-    CS530 Spring 2014
-    Alan Riggins
-*/
-
-/*	Travis Barre, Ehsan Eshragh, Julius Inocencio, Michael Reese
-	Team Oregon
-	masc1187
-	prog4
-	CS530, Spring 2014
+    Travis Barre, Ehsan Eshragh, Julius Inocencio, Michael Reese
+	Spring 2014
 */
 
 #ifndef OPCODE_ERROR_EXCEPTION_H

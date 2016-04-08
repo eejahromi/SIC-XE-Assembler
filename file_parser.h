@@ -1,8 +1,5 @@
 /*	Travis Barre, Michael Reese, Ehsan Eshragh, Julius Inocencio
-	Team Oregon
-	masc1187
-	prog4
-	CS530, Spring 2014
+	Spring 2014
 */
 
 #ifndef FILE_PARSER_H
